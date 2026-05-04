@@ -9,10 +9,6 @@ I build web products, AI-powered tools, and content systems that help teams move
 My focus is on intersection of web development, AI, and cloud. I like building things that are useful, not just impressive: products, workflows, automations, and digital experiences that solve real problems.
 
 Along the way, I have built experience through projects, certifications, community work, and creative execution. I have worked on event content, technical content, community initiatives, and hands-on learning across web development, Python, AI, and cloud.
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nottherajyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nottherajyk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nottherajyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [here](http://rajgupta-home.vercel.app)
@@ -21,6 +17,10 @@ Along the way, I have built experience through projects, certifications, communi
 * 🧠  I'm currently learning RAG, Lang chain framework's
 * 👥  I'm looking to collaborate on Web dev, python, RL projects
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nottherajyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nottherajyk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nottherajyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Socials
 
