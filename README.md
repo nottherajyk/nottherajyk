@@ -1,12 +1,12 @@
 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Raj Gupta
 ==================================================================================================================================
 
-Web Developer | Al Builder | Cloud + Python
+Web Dev | Al Builder | Cloud + Python
 -------------------------------------------
 
 I build web products, AI-powered tools, and content systems that help teams move faster.
 
-My focus is on intersection of web development, AI, and cloud. I like building things that are useful, not just impressive: products, workflows, automations, and digital experiences that solve real problems.
+My focus is on the intersection of web development, AI, and cloud. I like building things that are useful, not just impressive: products, workflows, automations, and digital experiences that solve real problems.
 
 Along the way, I have built experience through projects, certifications, community work, and creative execution. I have worked on event content, technical content, community initiatives, and hands-on learning across web development, Python, AI, and cloud.
 
