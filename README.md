@@ -13,8 +13,8 @@ Along the way, I have built experience through projects, certifications, communi
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [here](http://rajgupta-home.vercel.app)
 * ✉️  You can contact me at [rajgupta.yk@gmail.com](mailto:rajgupta.yk@gmail.com)
-* 🚀  I'm currently working on [Vitality] (https://vitalityai-xi.vercel.app)
-* 🧠  I'm currently learning RAG, Lang chain framework's
+* 🚀  I'm currently working on [CredLens] (https://idbi-credlens.vercel.app/)
+* 🧠  I'm currently learning fundamentals Deep Learning 
 * 👥  I'm looking to collaborate on Web dev, python, RL projects
 
 # 📊 GitHub Stats:
