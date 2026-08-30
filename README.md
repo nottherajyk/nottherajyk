@@ -47,5 +47,4 @@ Along the way, I have built experience through projects, certifications, communi
 ---
 [![](https://komarev.com/ghpvc/?username=nottherajyk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-ub-readme-streak-stats.herokuapp.com/?user=nottherajyk&" alt="nottherajyk" /></p>
+
