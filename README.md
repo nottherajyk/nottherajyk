@@ -10,6 +10,15 @@ My focus is on the intersection of web development, AI, and cloud. I like buildi
 
 Along the way, I have built experience through projects, certifications, community work, and creative execution. I have worked on event content, technical content, community initiatives, and hands-on learning across web development, Python, AI, and cloud.
 
+<!-- Snake animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nottherajyk/nottherajyk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nottherajyk/nottherajyk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nottherajyk/nottherajyk/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nottherajyk&label=Profile%20views&color=0e75b6&style=flat" alt="nottherajyk" /> </p>
 
 </p>
@@ -19,14 +28,7 @@ Along the way, I have built experience through projects, certifications, communi
 ![](https://streak-stats.demolab.com/?user=nottherajyk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nottherajyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Snake animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nottherajyk/nottherajyk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nottherajyk/nottherajyk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nottherajyk/nottherajyk/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
+
 
 ### Socials
 
