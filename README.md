@@ -10,21 +10,8 @@ My focus is on the intersection of web development, AI, and cloud. I like buildi
 
 Along the way, I have built experience through projects, certifications, community work, and creative execution. I have worked on event content, technical content, community initiatives, and hands-on learning across web development, Python, AI, and cloud.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [here](http://rajgupta-home.vercel.app)
-* ✉️  You can contact me at [rajgupta.yk@gmail.com](mailto:rajgupta.yk@gmail.com)
-* 🚀  I'm currently working on [CredLens] (https://idbi-credlens.vercel.app/)
-* 🧠  I'm currently learning fundamentals Deep Learning 
-* 👥  I'm looking to collaborate on Web dev, python, RL projects
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nottherajyk&label=Profile%20views&color=0e75b6&style=flat" alt="nottherajyk" /> </p>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nottherajyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nottherajyk" height="30" width="40" /></a>
-<a href="https://kaggle.com/nottherajyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nottherajyk" height="30" width="40" /></a>
-<a href="https://instagram.com/nottherajyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nottherajyk" height="30" width="40" /></a>
 </p>
 
 # 📊 GitHub Stats:
