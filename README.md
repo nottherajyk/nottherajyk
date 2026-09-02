@@ -4,9 +4,9 @@
 Web Dev | Al Builder | Cloud + Python
 -------------------------------------------
 
-I build web products, AI-powered tools, and content systems that help teams move faster.
+I build web products and AI-powered tools.
 
-My focus is on the intersection of web development, AI, and cloud. I like building things that are useful, not just impressive: products, workflows, automations, and digital experiences that solve real problems.
+My focus is on web development, AI, and cloud. I like building things that are useful, not just impressive products, workflows, automations, and digital experiences that solve real problems.
 
 Along the way, I have built experience through projects, certifications, community work, and creative execution. I have worked on event content, technical content, community initiatives, and hands-on learning across web development, Python, AI, and cloud.
 
