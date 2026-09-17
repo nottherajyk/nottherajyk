@@ -23,9 +23,7 @@ Along the way, I have built experience through projects, certifications, communi
 
 </p>
 
-# 📊 GitHub Stats:
-<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nottherajyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### Socials
 
