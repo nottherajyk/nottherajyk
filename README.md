@@ -23,12 +23,6 @@ Along the way, I have built experience through projects, certifications, communi
 
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nottherajyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nottherajyk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nottherajyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 
 ### Socials
 
